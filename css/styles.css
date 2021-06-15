@@ -1,0 +1,158 @@
+/* 100%=16px=1em*/
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Pacifico', cursive;
+    font-size: 5rem;
+    color: #66bfbf;
+
+}
+.intro{
+    width: 30%;
+    margin: 0 auto 0 auto;
+}
+h2{
+    font-size: 2.5rem;
+    color: #66bfbf;
+    font-family: 'Comfortaa', cursive;
+}
+h3{
+    color: #11999e;
+    font-size: 1.5rem;
+    font-family: 'Do Hyeon', sans-serif;
+}p{
+    font-family: 'Paytone One', sans-serif;
+}
+a{
+    color: #11999e;
+    text-decoration: none;
+    font-family: 'Pangolin', cursive;
+}
+a:hover{
+    color: rgb(246, 252, 252);
+}
+body{
+    margin: 0;
+    text-align: center;
+}
+.top-container{
+    background-color: rgb(218, 240, 240);
+    position: relative;
+    padding-top: 30%;
+
+}
+.web-container{
+    width:50%;
+    margin: 100px auto 100px;
+    text-align: left;
+}
+.cycling-container{
+    width:50%;
+    margin: 100px auto 150px;
+    text-align: left;
+}
+.top-cloud{
+    position: absolute;
+    top: 9rem;
+    right: 7rem;
+    height: 20%;
+    width: 20%;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 3rem;
+    height: 20%;
+    width: 20%;
+}
+.mountain{
+    padding-top: 5%;
+    width: 70%;
+}
+.profile{
+    border-radius: 100%;
+    width: 20%;
+}
+.web-pic{
+    width: 30%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+}
+.cycling{
+    width: 30%;
+    float: right;
+    border-radius: 100%;
+    margin-left: 30px;
+}
+.facebook{
+    width: 1.25rem;
+}
+.twitter{
+    width: 1.25rem;
+    margin-left:3rem;
+}
+.linkedin{
+    width: 1.25rem;
+    margin-left:3rem;
+}
+.copyright{
+    font-size: 0.6rem;
+    color: white;
+    margin:2rem 0;
+}
+.subtitle{
+    font-weight: normal;
+    line-height: 2;
+}
+hr{
+    border:none;
+    border-top: dotted #c5d1d1;
+    width: 5%;
+    border-width: thick;
+    margin: 6rem auto;
+}
+.Love{
+    line-height: 3;
+    width: 30%;
+    margin: auto;
+}
+.social-media{
+    margin-top: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    background-color: #66bfbf;
+}
+.BUTTON_FTC {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 12px;
+    font-weight: 200;
+    padding: 6px;
+    border: solid #FFFFFF 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_FTC:hover {
+    border: solid #FFFFFF 1px;
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
